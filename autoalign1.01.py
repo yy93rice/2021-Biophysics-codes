@@ -88,7 +88,6 @@ def autoalign(i_per_row=3,t_len_x=50,t_len_y=50):
 
     print('if you want to redo this, you may want to restart pymol to avoid memory issues')
 
-
     return
 
     
