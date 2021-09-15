@@ -87,7 +87,9 @@ def autoalign(i_per_row=3,t_len_x=50,t_len_y=50):
         cmd.translate([x_axis,y_axis,0],b[x])       
 
     print('if you want to redo this, you may want to restart pymol to avoid memory issues')
-
+    
+    cmd.zoom()
+    
     return
 
     
