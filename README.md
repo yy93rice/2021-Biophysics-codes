@@ -1,3 +1,5 @@
+autoalign1.02.py can only be used in Pymol.
+
 There are 2 functions in autoalign.py
 They can help you to separate different monomers/protomoers/chains of a multimer in .pdb file and arrange them into 
 an array with the dimension of your liking.
