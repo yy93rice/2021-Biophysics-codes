@@ -26,4 +26,4 @@ This function will create a copy of every single chain of your multimer, align a
 and then arrange them in to an array.
 You can specify how many monomers are in each row of the array and the distances between the monomers.
 Please beware that the distance you enter will be the distance between the center of each monomers in the array.
-If you want to delete the object at the end for better zooming, type '1' for the last term. 
+If you want to delete the initial multimer object at the end for better zooming, type '1' for the last term. 
