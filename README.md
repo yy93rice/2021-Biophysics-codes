@@ -1,4 +1,4 @@
-autoalign1.02.py can only be used in Pymol due to its heavy use of the Pymol cmd library.
+autoalign1.04.py can only be used in Pymol due to its heavy use of the Pymol cmd library.
 
 There are 2 functions in autoalign.py
 They can help you to separate different monomers/protomoers/chains of a multimer in .pdb file and arrange them into 
